@@ -58,9 +58,9 @@ public class StringCode {
                 return true;
         return false;
     }
-    public static void main(String[] args){
-        System.out.println(blowup("a3tx2z"));
-        System.out.println(maxRun("xxyyyz"));
-        System.out.println(stringIntersect("xxou","oou",2));
-    }
+//    public static void main(String[] args){
+//        System.out.println(blowup("a3tx2z"));
+//        System.out.println(maxRun("xxyyyz"));
+//        System.out.println(stringIntersect("xxou","oou",2));
+//    }
 }

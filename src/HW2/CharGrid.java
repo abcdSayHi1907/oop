@@ -69,16 +69,16 @@ public class CharGrid {
         }
         return count;
     }
-    public static void main(String[] args){
-        char[][] table = new char[][]{
-                {'c','o','a','c','m'},
-                {'d','f','a','k','m'},
-                {'a','a','a','a','a'},
-                {'c','s','a','l',' '},
-                {' ',' ','a','o',' ' }
-        };
-        CharGrid grid = new CharGrid(table);
-        System.out.println(charArea('c'));
-        System.out.println(countPlus());
-    }
+//    public static void main(String[] args){
+//        char[][] table = new char[][]{
+//                {'c','o','a','c','m'},
+//                {'d','f','a','k','m'},
+//                {'a','a','a','a','a'},
+//                {'c','s','a','l',' '},
+//                {' ',' ','a','o',' ' }
+//        };
+//        CharGrid grid = new CharGrid(table);
+//        System.out.println(charArea('c'));
+//        System.out.println(countPlus());
+//    }
 }
